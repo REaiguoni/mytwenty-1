@@ -1,0 +1,26 @@
+{
+"name": "zheshidishigenvpengylezenmban",
+"version": "1.0.0",
+"description": "ode sets up a basic Express server with a route /bitcoin-price for providing real-time tracking of the current price of Bitcoin. It fetc",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/REaiguoni/mytwenty-1.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "REaiguoni",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
